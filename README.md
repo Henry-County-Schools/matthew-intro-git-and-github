@@ -69,3 +69,5 @@ This project is designed for a 2-hour high school session. Students will build a
 *   `git checkout <name>`: Switch to a branch.
 *   `git push origin <branch>`: Send local commits to GitHub.
 *   `git pull`: Download and merge changes from GitHub.
+
+  Edited this on Github!
